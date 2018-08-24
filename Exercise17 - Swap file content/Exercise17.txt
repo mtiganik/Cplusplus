@@ -1,0 +1,14 @@
+Exercise 17 text file, line 2
+Exercise 17 text file, line 1
+Exercise 17 text file, line 4
+Exercise 17 text file, line 3
+Exercise 17 text file, line 6
+Exercise 17 text file, line 5
+Exercise 17 text file, line 8
+Exercise 17 text file, line 7
+Exercise 17 text file, line 10
+Exercise 17 text file, line 9
+Exercise 17 text file, line 12
+Exercise 17 text file, line 11
+Exercise 17 text file, line 14
+Exercise 17 text file, line 13
