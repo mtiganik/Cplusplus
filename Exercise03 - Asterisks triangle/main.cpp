@@ -5,9 +5,9 @@
 /// MODIFIED: 21.06.2018
 ///
 /// DESCRIPTION: Ask for 1 integer and draw a triangle made with asteriks of give size, like:
-///		   3 ->	*
-///				    **
-///			     	***
+///	     3 ->	*
+///	          **
+///           ***
 
 #include <iostream>
 
